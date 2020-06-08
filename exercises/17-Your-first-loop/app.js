@@ -1,14 +1,13 @@
 /* Done - check tests and clear for student use */
 
-function startCounting()
+function standardsMaker()
 {
 	
-	for(var i = 0; i < 100; i++)
+	for(i = 0; i< 300; i++)
 	{
-		console.log(i);
+		console.log("I will write questions if I'm stuck");
 	}
 	
-	return i;
 }
 
-startCounting();
+standardsMaker();
